@@ -1,4 +1,5 @@
 #summary Butterfly User's Guide
+#labels Featured
 
 == Introduction ==
 
