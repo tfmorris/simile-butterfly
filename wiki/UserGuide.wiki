@@ -124,6 +124,9 @@ A Javascript controller ''must'' provide a `process(path, request, response)` fu
 
 Within the Javascript controller, the `butterfly` global variable is provided.  <span style="color: red">More on butterfly's methods and properties needed...</span>
 
+A Javascript controller ''may'' provide an `init()` function for initializing the module in script.
+
+
 == Engine ==
 
 The Butterfly engine makes use of properties found in the servlet container's `butterfly.properties` file.  This is found by default in the `engine/src/main/webapp/WEB-INF` directory in Butterfly's root source directory.
