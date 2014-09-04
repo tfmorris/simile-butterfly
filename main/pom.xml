@@ -10,9 +10,7 @@
     <version>1.0</version>
   </parent>
   
-  <groupId>edu.mit.simile</groupId>
   <artifactId>butterfly</artifactId>
-  <version>1.0</version>
 
   <name>SIMILE Butterfly Engine</name>
   <url>https://code.google.com/p/simile-butterfly/</url>
